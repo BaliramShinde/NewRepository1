@@ -3,3 +3,21 @@
 
 # Ada Library Information
 *.ali
+/.metadata/
+.settings
+.classpath
+.project
+.gitattributes
+.png
+.css
+.js
+.gif
+.html
+
+
+Downloads/*
+Executables/*
+Logs/*
+Uploads/*
+target/*
+test-output/*
